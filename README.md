@@ -4,9 +4,6 @@
   </a>
 </div>
 
-<img width="45" height="45" alt="docusaurus_keytar-removebg-preview" src="https://github.com/user-attachments/assets/b7df3d24-8d8b-466c-a920-4b1d731e61e3" />
-
-
 # Guía Técnica: Implementación de GitHub Snake en Modo Oscuro
 Esta documentación detalla los pasos seguidos para integrar la animación de la serpiente en el perfil de 'GitHub', garantizando que el diseño sea compatible con temas oscuros y forzando la actualización de la caché del servidor.
 
