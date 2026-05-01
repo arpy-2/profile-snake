@@ -1,4 +1,4 @@
-[![Docusaurus](docusaurus_keytar.png)](https://app.netlify.com/start/deploy?repository=tu-repo)
+  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=tu-repo) 
 
 
 # Guía Técnica: Implementación de GitHub Snake en Modo Oscuro
