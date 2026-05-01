@@ -1,10 +1,8 @@
 <div align="left">
   <a href="https://docusaurus.io">
-    <img width="30" height="30" alt="docusaurus_keytar" src="https://github.com/user-attachments/assets/b41bfb97-2337-4b27-8ec6-c1faa94b516f" />
+    <img width="45" height="45" alt="docusaurus_keytar" src="https://github.com/user-attachments/assets/b41bfb97-2337-4b27-8ec6-c1faa94b516f" />
   </a>
 </div>
-
-<br>
 
 # Guía Técnica: Implementación de GitHub Snake en Modo Oscuro
 Esta documentación detalla los pasos seguidos para integrar la animación de la serpiente en el perfil de 'GitHub', garantizando que el diseño sea compatible con temas oscuros y forzando la actualización de la caché del servidor.
