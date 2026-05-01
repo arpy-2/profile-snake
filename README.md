@@ -1,3 +1,7 @@
+```markdown
+  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=tu-repo)
+```
+
 # Guía Técnica: Implementación de GitHub Snake en Modo Oscuro
 Esta documentación detalla los pasos seguidos para integrar la animación de la serpiente en el perfil de 'GitHub', garantizando que el diseño sea compatible con temas oscuros y forzando la actualización de la caché del servidor.
 
