@@ -1,11 +1,8 @@
-https://github.com/user-attachments/assets/e8cc112c-b37f-4167-acd8-3ebeb14b9947
 
-![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
-![npm version](https://img.shields.io/npm/v/tu-paquete.svg)
 
 ---
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tu-usuario/tu-repo)
+[![Docusaurus](https://github.com/user-attachments/assets/e8cc112c-b37f-4167-acd8-3ebeb14b9947)](https://app.netlify.com/start/deploy?repository=https://github.com/tu-usuario/tu-repo)
 
 
 
