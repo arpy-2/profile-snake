@@ -1,9 +1,4 @@
-
-
----
-
-[![Docusaurus](https://github.com/user-attachments/assets/e8cc112c-b37f-4167-acd8-3ebeb14b9947)](https://app.netlify.com/start/deploy?repository=https://github.com/tu-usuario/tu-repo)
-
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/slorber/docusaurus-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 
 # Guía Técnica: Implementación de GitHub Snake en Modo Oscuro
