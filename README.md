@@ -1,9 +1,9 @@
-Guía Técnica: Implementación de GitHub Snake en Modo Oscuro
+# Guía Técnica: Implementación de GitHub Snake en Modo Oscuro
 Esta documentación detalla los pasos seguidos para integrar la animación de la serpiente en el perfil de 'GitHub', garantizando que el diseño sea compatible con temas oscuros y forzando la actualización de la caché del servidor.
 
 ---
 
-1. Requisitos de Configuración del Repositorio
+## 1. Requisitos de Configuración del Repositorio
 Antes de desplegar el código, es imprescindible ajustar los permisos de seguridad de 'GitHub':
 
 Permisos de Escritura: Dirigirse a 'Settings' > 'Actions' > 'General'. En la sección 'Workflow permissions', activar 'Read and write permissions'. Sin esto, la acción no podrá crear la rama donde se aloja la imagen.
@@ -12,7 +12,7 @@ Privacidad de Actividad: Para que la serpiente procese todo el historial de trab
 
 ---
 
-2. Automatización con GitHub Actions
+## 2. Automatización con GitHub Actions
 El proceso se gestiona mediante un archivo de flujo de trabajo en la ruta '.github/workflows/snake.yml'. Se ha optado por una configuración personalizada para evitar el fondo blanco estándar.
 
 Código del Workflow:
@@ -51,7 +51,7 @@ jobs:
 
 ---
           
-3. Integración en el Perfil (README.md)
+## 3. Integración en el Perfil (README.md)
 Para renderizar la animación, se debe utilizar el enlace directo a la rama de salida. Al haber renombrado el archivo a 'snake-dark.svg', se evita que 'GitHub' sirva una versión antigua almacenada en su caché ('Camo').
 
 Código a insertar:
@@ -61,7 +61,7 @@ Markdown
 
 ---
 
-4. Notas de Mantenimiento y Troubleshooting
+## 4. Notas de Mantenimiento y Troubleshooting
 Forzado de actualización: Si tras un cambio de colores la imagen no se actualiza, el primer paso es ejecutar manualmente el 'workflow' desde la pestaña 'Actions' > 'Run workflow'.
 
 Caché del Navegador: En caso de no ver cambios inmediatos, refrescar con 'Ctrl + F5' para ignorar la caché local.
