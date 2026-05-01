@@ -1,12 +1,7 @@
-<div align="center">
-  <h1 align="center">
-    Docusaurus
-    <br />
-    <br />
-    <a href="https://docusaurus.io">
-      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus">
-    </a>
-  </h1>
+<div align="left">
+  <a href="https://docusaurus.io">
+    <img width="400" height="400" alt="docusaurus_keytar" src="https://github.com/user-attachments/assets/b41bfb97-2337-4b27-8ec6-c1faa94b516f" />
+  </a>
 </div>
 
 <p align="center">
