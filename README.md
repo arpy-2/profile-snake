@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://docusaurus.io">
-    <img width="50" height="50" alt="docusaurus_keytar" src="https://github.com/user-attachments/assets/b41bfb97-2337-4b27-8ec6-c1faa94b516f" />
+    <img width="30" height="30" alt="docusaurus_keytar" src="https://github.com/user-attachments/assets/b41bfb97-2337-4b27-8ec6-c1faa94b516f" />
   </a>
 </div>
 
