@@ -1,8 +1,10 @@
 <div align="left">
   <a href="https://docusaurus.io">
-    <img width="100" height="100" alt="docusaurus_keytar" src="https://github.com/user-attachments/assets/b41bfb97-2337-4b27-8ec6-c1faa94b516f" />
+    <img width="50" height="50" alt="docusaurus_keytar" src="https://github.com/user-attachments/assets/b41bfb97-2337-4b27-8ec6-c1faa94b516f" />
   </a>
 </div>
+
+<br>
 
 <p align="center">
   <a href="https://x.com/docusaurus"><img src="https://img.shields.io/twitter/follow/docusaurus.svg?style=social" align="right" alt="Twitter Follow" /></a>
