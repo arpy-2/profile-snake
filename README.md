@@ -6,7 +6,7 @@ Esta documentación detalla los pasos seguidos para integrar la animación de la
 ## 1. Requisitos de Configuración del Repositorio
 Antes de desplegar el código, es imprescindible ajustar los permisos de seguridad de 'GitHub':
 
-Permisos de Escritura: Dirigirse a 'Settings' > 'Actions' > 'General'. En la sección 'Workflow permissions', activar 'Read and write permissions'. Sin esto, la acción no podrá crear la rama donde se aloja la imagen.
+Permisos de Escritura: Dirigirse a ´Settings´ > 'Actions' > 'General'. En la sección 'Workflow permissions', activar 'Read and write permissions'. Sin esto, la acción no podrá crear la rama donde se aloja la imagen.
 
 Privacidad de Actividad: Para que la serpiente procese todo el historial de trabajo (incluyendo repositorios privados), activar la opción 'Private contributions' en los ajustes del gráfico de actividad del perfil de usuario.
 
